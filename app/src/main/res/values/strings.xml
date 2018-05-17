@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Podomoro</string>
+    <string name="welcome">Welcome! Podomoro will be your good helper!</string>
+    <string name="singleTask">START!</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name_info">USER INFORMATION</string>
+    <string name="info_button">STATISTIC</string>
+    <string name="quit">QUIT</string>
+    <string name="start">START!</string>
+    <string name="map">MAP</string>
+    <string name="add_task">ADD TASK</string>
+    <string name="p_clock">NOW IS PODOMORO!</string>
+    <string name="b_clock">NOW IS BREAK!</string>
+    <string name="title">TITLE: </string>
+    <string name="content">DETAIL: </string>
+    <string name="time_need_one">You still need: </string>
+    <string name="time_need_two">podomoro clocks to finish this task.</string>
+</resources>

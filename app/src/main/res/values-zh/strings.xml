@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">番茄钟</string>
+    <string name="welcome">欢迎！番茄钟将成为你的好帮手！</string>
+    <string name="singleTask">开始！</string>
+    <string name="profile">资料</string>
+    <string name="title_activity_maps">地图</string>
+    <string name="name_info">个人信息</string>
+    <string name="info_button">统计</string>
+    <string name="quit">返回</string>
+    <string name="start">开始</string>
+    <string name="map">地图</string>
+    <string name="add_task">添加任务</string>
+    <string name="p_clock">现在是番茄钟时间！</string>
+    <string name="b_clock">现在是休息时间！</string>
+    <string name="title">任务名：</string>
+    <string name="content">详细信息：</string>
+    <string name="time_need_one">您仍然需要: </string>
+    <string name="time_need_two">个番茄钟来完成此项任务</string>
+</resources>
